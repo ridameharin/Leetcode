@@ -21,4 +21,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ridameharin/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/ridameharin/Leetcode/tree/main/0231-power-of-two/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/ridameharin/Leetcode/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/ridameharin/Leetcode/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
