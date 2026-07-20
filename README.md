@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ridameharin/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/ridameharin/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0412-fizz-buzz](https://github.com/ridameharin/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/ridameharin/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/ridameharin/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0412-fizz-buzz](https://github.com/ridameharin/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/ridameharin/Leetcode/tree/main/0231-power-of-two/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/ridameharin/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
