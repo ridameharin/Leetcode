@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/ridameharin/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ridameharin/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/ridameharin/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Array
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ridameharin/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/ridameharin/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0217-contains-duplicate](https://github.com/ridameharin/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ridameharin/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/ridameharin/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
