@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/ridameharin/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/ridameharin/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0217-contains-duplicate](https://github.com/ridameharin/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0912-sort-an-array](https://github.com/ridameharin/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/ridameharin/Leetcode/tree/main/0190-reverse-bits/) | Easy |
+| [0912-sort-an-array](https://github.com/ridameharin/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +68,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ridameharin/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0912-sort-an-array](https://github.com/ridameharin/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/ridameharin/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/ridameharin/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/ridameharin/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/ridameharin/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/ridameharin/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
