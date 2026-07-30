@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/ridameharin/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/ridameharin/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0912-sort-an-array](https://github.com/ridameharin/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1929-concatenation-of-array](https://github.com/ridameharin/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/ridameharin/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [1929-concatenation-of-array](https://github.com/ridameharin/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
