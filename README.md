@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/ridameharin/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ridameharin/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/ridameharin/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0520-detect-capital](https://github.com/ridameharin/Leetcode/tree/main/0520-detect-capital/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/ridameharin/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
