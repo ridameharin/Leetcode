@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/ridameharin/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1952-three-divisors](https://github.com/ridameharin/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2235-add-two-integers](https://github.com/ridameharin/Leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/ridameharin/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,4 +105,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/ridameharin/Leetcode/tree/main/1952-three-divisors/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/ridameharin/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 <!---LeetCode Topics End-->
