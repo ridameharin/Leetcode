@@ -16,6 +16,6 @@ var commonFactors = function(a, b) {
                 count2.push(j)
             }
         }
-    const comm=[...new Set(count.filter(value=>count2.includes(value)))]
+    let comm=[...new Set(count.filter(value=>count2.includes(value)))]
     return comm.length
 };
