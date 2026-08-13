@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0520-detect-capital](https://github.com/ridameharin/Leetcode/tree/main/0520-detect-capital/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ridameharin/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/ridameharin/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ridameharin/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/ridameharin/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ridameharin/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ridameharin/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ridameharin/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ridameharin/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/ridameharin/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Trie
