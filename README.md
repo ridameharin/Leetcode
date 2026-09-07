@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/ridameharin/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/ridameharin/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/ridameharin/Leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/ridameharin/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/ridameharin/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/ridameharin/Leetcode/tree/main/0507-perfect-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ridameharin/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/ridameharin/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ridameharin/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0367-valid-perfect-square](https://github.com/ridameharin/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
