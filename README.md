@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0520-detect-capital](https://github.com/ridameharin/Leetcode/tree/main/0520-detect-capital/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ridameharin/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/ridameharin/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/ridameharin/Leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ridameharin/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2418-sort-the-people](https://github.com/ridameharin/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 ## Hash Table
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ridameharin/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/ridameharin/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0912-sort-an-array](https://github.com/ridameharin/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1859-sorting-the-sentence](https://github.com/ridameharin/Leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2418-sort-the-people](https://github.com/ridameharin/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/ridameharin/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Heap (Priority Queue)
@@ -170,4 +172,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ridameharin/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/ridameharin/Leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 <!---LeetCode Topics End-->
