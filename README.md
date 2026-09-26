@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/ridameharin/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/ridameharin/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ridameharin/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/ridameharin/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ridameharin/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ridameharin/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2418-sort-the-people](https://github.com/ridameharin/Leetcode/tree/main/2418-sort-the-people/) | Easy |
@@ -176,4 +177,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1859-sorting-the-sentence](https://github.com/ridameharin/Leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/ridameharin/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
