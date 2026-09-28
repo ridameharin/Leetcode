@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/ridameharin/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/ridameharin/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/ridameharin/Leetcode/tree/main/0520-detect-capital/) | Easy |
+| [0541-reverse-string-ii](https://github.com/ridameharin/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ridameharin/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/ridameharin/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/ridameharin/Leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ridameharin/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0541-reverse-string-ii](https://github.com/ridameharin/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
