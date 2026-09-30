@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2418-sort-the-people](https://github.com/ridameharin/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ridameharin/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/ridameharin/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/ridameharin/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/ridameharin/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ridameharin/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/ridameharin/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
