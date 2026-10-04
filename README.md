@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ridameharin/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/ridameharin/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ridameharin/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ridameharin/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/ridameharin/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/ridameharin/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/ridameharin/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0260-single-number-iii](https://github.com/ridameharin/Leetcode/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/ridameharin/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ridameharin/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ridameharin/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/ridameharin/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/ridameharin/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/ridameharin/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/ridameharin/Leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/ridameharin/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ridameharin/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/ridameharin/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/ridameharin/Leetcode/tree/main/0507-perfect-number/) | Easy |
@@ -79,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/ridameharin/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/ridameharin/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/ridameharin/Leetcode/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/ridameharin/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ridameharin/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ridameharin/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Recursion
@@ -101,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/ridameharin/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/ridameharin/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ridameharin/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ridameharin/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ridameharin/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
@@ -117,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ridameharin/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/ridameharin/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ridameharin/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/ridameharin/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0912-sort-an-array](https://github.com/ridameharin/Leetcode/tree/main/0912-sort-an-array/) | Medium |
