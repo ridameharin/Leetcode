@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/ridameharin/Leetcode/tree/main/0507-perfect-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ridameharin/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ridameharin/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/ridameharin/Leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1952-three-divisors](https://github.com/ridameharin/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2235-add-two-integers](https://github.com/ridameharin/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/ridameharin/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
