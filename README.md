@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-convert-the-temperature](https://github.com/ridameharin/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ridameharin/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3099-harshad-number](https://github.com/ridameharin/Leetcode/tree/main/3099-harshad-number/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ridameharin/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ridameharin/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3959-check-good-integer](https://github.com/ridameharin/Leetcode/tree/main/3959-check-good-integer/) | Easy |
 ## Bit Manipulation
