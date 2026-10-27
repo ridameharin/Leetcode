@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ridameharin/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ridameharin/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2418-sort-the-people](https://github.com/ridameharin/Leetcode/tree/main/2418-sort-the-people/) | Easy |
+| [3798-largest-even-number](https://github.com/ridameharin/Leetcode/tree/main/3798-largest-even-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
