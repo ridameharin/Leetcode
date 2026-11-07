@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1796-second-largest-digit-in-a-string](https://github.com/ridameharin/Leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/ridameharin/Leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ridameharin/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ridameharin/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ridameharin/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2418-sort-the-people](https://github.com/ridameharin/Leetcode/tree/main/2418-sort-the-people/) | Easy |
 | [3798-largest-even-number](https://github.com/ridameharin/Leetcode/tree/main/3798-largest-even-number/) | Easy |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/ridameharin/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridameharin/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ridameharin/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ridameharin/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ridameharin/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ridameharin/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/ridameharin/Leetcode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/ridameharin/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ridameharin/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0541-reverse-string-ii](https://github.com/ridameharin/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ridameharin/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
